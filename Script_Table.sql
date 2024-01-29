@@ -1,3 +1,6 @@
+--DWH_Project
+create database if not exists `DWH_Project`;
+
 --dimcustomer
 create table DimCustomer (
     CustomerId int primary key,
