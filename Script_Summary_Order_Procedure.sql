@@ -30,4 +30,4 @@ begin
 end;
 
 
-call summary_order_status(4);
+SELECT * FROM summary_order_status(4);
